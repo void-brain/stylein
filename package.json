@@ -1,0 +1,17 @@
+{
+  "name": "@humbledore/stylein",
+  "version": "1.0.0",
+  "description": "give style to elements - A CSS-in-JS library",
+  "main": "script.js",
+  "exports": {
+    ".": {
+      "import": "./scirpt.js"
+    }
+  },
+  "files": [
+    "script"
+  ],
+  "keywords": ["css-in-js", "styling", "stege", "javascript"],
+  "author": "humbledore",
+  "license": "MIT"
+}
